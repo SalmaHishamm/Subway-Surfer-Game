@@ -1,1 +1,3 @@
-"# Subway-Surfer-Game" 
+# Subway Surfer Game
+
+This Subway Surfer game implemented using OpenGL.
