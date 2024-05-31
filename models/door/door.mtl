@@ -1,0 +1,9 @@
+newmtl Door
+Kd 0.752941 0.623529 0.266667
+illum 1
+map_Kd door.png
+
+newmtl Knob
+Kd 0.660000 0.517455 0.049091
+illum 1
+map_Kd handle.png
